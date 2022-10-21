@@ -1,1 +1,5 @@
 * mob.sh test
+  Testing mob program. Please check the manual.
+  
+** stars
+   No need for stars
